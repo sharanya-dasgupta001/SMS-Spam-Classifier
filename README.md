@@ -1,2 +1,2 @@
 # SMS-Spam-Classifier
-Detecting Spam sms
+This SMS Spam Classifier is a machine learning model trained to distinguish between spam and non-spam (ham) text messages. It preprocesses text data, trains a model on labeled SMS messages, and then classifies incoming messages as spam or ham. The model's performance is evaluated using standard metrics, and it can be deployed for real-time classification of SMS messages, helping users filter unwanted content effectively.
